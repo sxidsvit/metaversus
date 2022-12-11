@@ -1,7 +1,5 @@
 # Metaversus
 
-## Maybe, this is my best clone of Youtube up to now
-
 ### Created using Framer Motion, open source motion library for React, and Next 13
 
 - [React 18](https://reactjs.org/blog/2022/03/29/react-v18.html)
